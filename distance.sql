@@ -1,0 +1,13 @@
+USE airports_schema;
+
+ALTER TABLE airports_table
+DROP COLUMN IATA_CODE,
+DROP COLUMN ICAO_CODE,
+DROP COLUMN FIELD_ELEVATION,
+DROP COLUMN GMT,
+DROP COLUMN ALP,
+DROP COLUMN CONTINENT,
+DROP COLUMN DESCP1,
+DROP COLUMN DESCP2;
+
+select *  from airports_schema.airports_table where COUNTRY = 'Malaysia';
