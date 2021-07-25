@@ -1,0 +1,306 @@
+AIRPORTS,DATE,TIME,FLIGHT,ORIGIN,AIRCRAFT,AIRLINE/OPERATOR,STATUS,DURATION
+Bakalalan Airport ( BKM / WBGQ ),2021 Jul 26,10:15ÿMYT,MH3540,Lawasÿ(LWY/WBGW),DHC6,Malaysia Airlines,SCHEDULED IN 1d 3h,00h35m
+Bario Airport ( BBN / WBGZ ),2021 Jul 26,13:55ÿMYT,MH3436,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 6h,00h50m
+Bario Airport ( BBN / WBGZ ),2021 Jul 26,13:45ÿMYT,MH3434,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 6h,00h50m
+Bario Airport ( BBN / WBGZ ),2021 Jul 26,12:10ÿMYT,MH3722,Marudiÿ(MUR/WBGM),DHC6,Malaysia Airlines,SCHEDULED IN 1d 4h,00h40m
+Bario Airport ( BBN / WBGZ ),2021 Jul 25,12:25ÿMYT,MH3436,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART IN 5h 3m,00h50m
+Bario Airport ( BBN / WBGZ ),2021 Jul 25,10:05ÿMYT,MH3434,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART IN 2h 43m,00h50m
+Bario Airport ( BBN / WBGZ ),2021 Jul 18,10:40ÿMYT,MH3722,Marudiÿ(MUR/WBGM),DHC6,Malaysia Airlines,CANCELLED,00h40m
+Bintulu Airport ( BTU / WBGB ),2021 Jul 25,12:20ÿMYT,MH3740,Sibuÿ(SBW/WBGS),AT72,Malaysia Airlines,EST. DEPART IN 5h 10m,00h45m
+Bintulu Airport ( BTU / WBGB ),2021 Jul 25,07:35ÿMYT,MH3441,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,EST. DEPART IN 25m,00h50m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 26,11:25ÿMYT,MH3013,Lahad Datuÿ(LDU/WBKD),AT72,Malaysia Airlines,SCHEDULED IN 1d 3h,00h55m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 26,10:55ÿMYT,MH2612,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 1h,02h40m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,22:00ÿMYT,AK5138,Kuala Lumpurÿ(KUL/WMKK),-,AirAsia,SCHEDULED IN 12h 51m,02h30m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,20:45ÿMYT,MH2638,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,02h35m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,20:40ÿMYT,AK5306,Senaiÿ(JHB/WMKJ),-,AirAsia,EST. DEPART IN 12h 1m,02h20m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,17:15ÿMYT,MH3019,Lahad Datuÿ(LDU/WBKD),AT72,Malaysia Airlines,EST. DEPART IN 9h 41m,00h55m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,16:35ÿMYT,MH2711,Sandakanÿ(SDK/WBKS),B738,Malaysia Airlines,EST. DEPART IN 10h 56m,02h35m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,16:05ÿMYT,AK5322,Penangÿ(PEN/WMKP),-,AirAsia,EST. DEPART IN 6h 56m,02h50m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,15:40ÿMYT,MH2614,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,EST. DEPART IN 6h 26m,02h35m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,13:50ÿMYT,MH2646,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,02h35m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,13:35ÿMYT,MH3015,Lahad Datuÿ(LDU/WBKD),AT72,Malaysia Airlines,EST. DEPART IN 6h 1m,01h11m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,12:55ÿMYT,MH2710,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,EST. DEPART IN 3h 36m,02h44m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,11:55ÿMYT,MH3162,Limbangÿ(LMN/WBGJ),DHC6,Malaysia Airlines,EST. DEPART IN 4h 26m,00h50m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,11:35ÿMYT,MH3046,Labuanÿ(LBU/WBKL),AT72,Malaysia Airlines,EST. DEPART IN 4h 21m,00h35m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 25,10:55ÿMYT,MH2612,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,02h40m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 24,23:35ÿMYT,MH2628,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,02h35m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 24,13:50ÿMYT,MH2646,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,02h35m
+Kota Kinabalu International Airport ( BKI / WBKK ),2021 Jul 24,10:55ÿMYT,MH2612,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,02h40m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,14:50ÿMYT,FM885,Shanghaiÿ(PVG/ZSPD),-,Shanghai Airlines,SCHEDULED IN 2h 14m,05h55m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,14:50ÿMYT,QR848,Dohaÿ(DOH/OTHH),B789,Qatar Airways,EST. DEPART IN 29m,07h40m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,14:45ÿMYT,MH2575,Miriÿ(MYY/WBGR),B738,Malaysia Airlines,EST. DEPART IN 5h 49m,02h15m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,14:30ÿMYT,MH2621,Kota Kinabaluÿ(BKI/WBKK),B738,Malaysia Airlines,CANCELLED,02h20m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,14:20ÿMYT,MH2609,Labuanÿ(LBU/WBKL),B738,Malaysia Airlines,EST. DEPART IN 5h 19m,02h20m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,14:05ÿMYT,MH2661,Tawauÿ(TWU/WBKW),B738,Malaysia Airlines,EST. DEPART IN 4h 44m,02h40m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,13:45ÿMYT,SQ114,Singaporeÿ(SIN/WSSS),B738,Singapore Airlines,SCHEDULED IN 6h 4m,01h00m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,12:50ÿMYT,MH1433,Langkawiÿ(LGK/WMKL),B738,Malaysia Airlines,CANCELLED,01h05m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,12:35ÿMYT,EY418,Abu Dhabiÿ(AUH/OMAA),B789ÿ(A6-BLV),Etihad Airways,LANDING LATE IN 6h 39m,07h23m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,12:10ÿMYT,MH1052,Senaiÿ(JHB/WMKJ),B738,Malaysia Airlines,EST. DEPART IN 4h 39m,00h50m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,11:50ÿMYT,GA820,Jakartaÿ(CGK/WIII),B738,Garuda Indonesia,SCHEDULED IN 2h 44m,02h25m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,11:20ÿMYT,MH1143,Penangÿ(PEN/WMKP),B738,Malaysia Airlines,CANCELLED,01h00m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,10:40ÿMYT,3K663,Singaporeÿ(SIN/WSSS),-,JetStar Asia Airways,SCHEDULED IN 2h 44m,01h15m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,09:30ÿMYT,SQ106,Singaporeÿ(SIN/WSSS),B738,Singapore Airlines,SCHEDULED IN 1h 49m,01h00m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,08:05ÿMYT,CV7946,Singaporeÿ(SIN/WSSS),B744,Cargolux,SCHEDULED 1h AGO,02h25m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,,BR217,Taipeiÿ(TPE/RCTP),B77Wÿ(B-16732),EVA Air,LIVE,
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,,CZ8021,Guangzhouÿ(CAN/ZGGG),B789ÿ(B-1168),China Southern Airlines,LIVE,
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,,CV6568,Dubaiÿ(DWC/OMDW),B748ÿ(LX-VCA),Cargolux,LIVE,
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,05:00ÿMYT,YG9029,Tianjinÿ(TSN/ZBTJ),-,YTO Cargo Airlines,SCHEDULED 3h 45m AGO,02h05m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 25,04:00ÿMYT,CI5854,Jakartaÿ(CGK/WIII),B744,China Airlines,SCHEDULED 4h 40m AGO,02h00m
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 24,,MH128,"Melbourne, VICÿ(MEL/YMML)",A333ÿ(9M-MTK),Malaysia Airlines,STATUS N/A,
+Kuala Lumpur International Airport ( KUL / WMKK ),2021 Jul 24,,HX2747,Hong Kongÿ(HKG/VHHH),A333ÿ(B-LNQ),Hong Kong Airlines,DEPARTED 7h 33m AGO,
+Kuantan Airport ( KUA / WMKD ),2021 Jul 26,10:15ÿMYT,MH1268,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 2h,00h50m
+Kuantan Airport ( KUA / WMKD ),2021 Jul 24,10:15ÿMYT,MH1268,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,00h50m
+Kuantan Airport ( KUA / WMKD ),2021 Jul 23,10:15ÿMYT,MH1268,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,00h50m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 26,15:30ÿMYT,AK6191,Miriÿ(MYY/WBGR),-,AirAsia,SCHEDULED IN 1d 7h,01h00m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 26,15:25ÿMYT,MH3712,Tanjung Manisÿ(TGC/WBGT),DHC6,Malaysia Airlines,SCHEDULED IN 1d 8h,00h40m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 26,13:25ÿMYT,MH3416,Mukahÿ(MKM/WBGK),DHC6,Malaysia Airlines,SCHEDULED IN 1d 5h,01h05m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 26,11:30ÿMYT,MH3414,Mukahÿ(MKM/WBGK),DHC6,Malaysia Airlines,SCHEDULED IN 1d 3h,01h05m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 26,11:00ÿMYT,MH3761,Limbangÿ(LMN/WBGJ),AT72,Malaysia Airlines,SCHEDULED IN 1d 2h,01h45m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 26,10:35ÿMYT,MH3412,Mukahÿ(MKM/WBGK),DHC6,Malaysia Airlines,SCHEDULED IN 1d 2h,01h05m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 26,10:30ÿMYT,OD1606,Kuala Lumpurÿ(KUL/WMKK),B738ÿ(9M-LNS),Malindo Air,SCHEDULED IN 1d 2h,01h45m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 25,19:35ÿMYT,TR430,Singaporeÿ(SIN/WSSS),-,Scoot,SCHEDULED IN 11h 24m,01h30m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 25,15:55ÿMYT,MH2536,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,EST. DEPART IN 7h 24m,01h50m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 25,15:30ÿMYT,AK6191,Miriÿ(MYY/WBGR),-,AirAsia,EST. DEPART IN 7h 49m,01h00m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 25,14:55ÿMYT,MH3416,Mukahÿ(MKM/WBGK),DHC6,Malaysia Airlines,EST. DEPART IN 7h 9m,01h05m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 25,13:10ÿMYT,AK5206,Kuala Lumpurÿ(KUL/WMKK),-,AirAsia,EST. DEPART IN 4h 44m,01h45m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 25,12:35ÿMYT,AK6465,Sibuÿ(SBW/WBGS),-,AirAsia,EST. DEPART IN 5h 14m,00h40m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 25,11:35ÿMYT,MH3712,Tanjung Manisÿ(TGC/WBGT),DHC6,Malaysia Airlines,EST. DEPART IN 4h 14m,00h40m
+Kuching International Airport ( KCH / WBGG ),2021 Jul 25,10:35ÿMYT,MH3412,Mukahÿ(MKM/WBGK),DHC6,Malaysia Airlines,EST. DEPART IN 2h 49m,01h05m
+LTS Pulau Redang Airport ( RDN / WMPR ),2021 Jul 26,12:10ÿMYT,J8100,Subangÿ(SZB/WMSA),AT43,Berjaya Air,SCHEDULED IN 1d 4h,01h10m
+LTS Pulau Redang Airport ( RDN / WMPR ),2021 Jul 25,12:10ÿMYT,J8100,Subangÿ(SZB/WMSA),AT43,Berjaya Air,SCHEDULED IN 4h 16m,01h10m
+LTS Pulau Redang Airport ( RDN / WMPR ),2021 Jul 24,12:10ÿMYT,J8100,Subangÿ(SZB/WMSA),AT43,Berjaya Air,SCHEDULED 19h 43m AGO,01h10m
+LTS Pulau Redang Airport ( RDN / WMPR ),2021 Jul 23,12:10ÿMYT,J8100,Subangÿ(SZB/WMSA),AT43,Berjaya Air,SCHEDULED 1d 19h AGO,01h10m
+LTS Pulau Redang Airport ( RDN / WMPR ),2021 Jul 22,12:10ÿMYT,J8100,Subangÿ(SZB/WMSA),AT43,Berjaya Air,SCHEDULED 2d 19h AGO,01h10m
+LTS Pulau Redang Airport ( RDN / WMPR ),2021 Jul 20,12:10ÿMYT,J8100,Subangÿ(SZB/WMSA),AT43,Berjaya Air,SCHEDULED 4d 19h AGO,01h10m
+LTS Pulau Redang Airport ( RDN / WMPR ),2021 Jul 19,12:10ÿMYT,J8100,Subangÿ(SZB/WMSA),AT43,Berjaya Air,SCHEDULED 5d 19h AGO,01h10m
+LTS Pulau Redang Airport ( RDN / WMPR ),2021 Jul 18,12:10ÿMYT,J8100,Subangÿ(SZB/WMSA),AT43,Berjaya Air,SCHEDULED 6d 19h AGO,01h10m
+Labuan Airport ( LBU / WBKL ),2021 Jul 26,10:35ÿMYT,MH3045,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,SCHEDULED IN 1d 3h,00h35m
+Labuan Airport ( LBU / WBKL ),2021 Jul 25,11:00ÿMYT,MH2608,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,EST. DEPART IN 1h 51m,02h34m
+Labuan Airport ( LBU / WBKL ),2021 Jul 25,10:35ÿMYT,MH3045,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,EST. DEPART IN 3h 16m,00h35m
+Labuan Airport ( LBU / WBKL ),2021 Jul 22,17:45ÿMYT,TH326,Subangÿ(SZB/WMSA),B752,Raya Airways,SCHEDULED 2d 15h AGO,02h30m
+Labuan Airport ( LBU / WBKL ),2021 Jul 20,17:45ÿMYT,TH326,Subangÿ(SZB/WMSA),B752,Raya Airways,SCHEDULED 4d 15h AGO,02h30m
+Labuan Airport ( LBU / WBKL ),2021 Jul 19,18:05ÿMYT,MH3047,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,CANCELLED,00h35m
+Labuan Airport ( LBU / WBKL ),2021 Jul 19,17:35ÿMYT,MH3228,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,CANCELLED,00h40m
+Labuan Airport ( LBU / WBKL ),2021 Jul 19,14:10ÿMYT,MH3226,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,CANCELLED,00h40m
+Labuan Airport ( LBU / WBKL ),2021 Jul 19,09:50ÿMYT,MH3222,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,CANCELLED,00h40m
+Labuan Airport ( LBU / WBKL ),2021 Jul 19,07:35ÿMYT,MH3041,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,CANCELLED,00h35m
+Lahad Datu Airport ( LDU / WBKD ),2021 Jul 26,15:55ÿMYT,MH3018,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,SCHEDULED IN 1d 8h,00h55m
+Lahad Datu Airport ( LDU / WBKD ),2021 Jul 26,10:05ÿMYT,MH3014,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,SCHEDULED IN 1d 2h,00h55m
+Lahad Datu Airport ( LDU / WBKD ),2021 Jul 25,15:55ÿMYT,MH3018,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,EST. DEPART IN 8h 16m,00h55m
+Lahad Datu Airport ( LDU / WBKD ),2021 Jul 25,12:15ÿMYT,MH3155,Sandakanÿ(SDK/WBKS),AT72,Malaysia Airlines,EST. DEPART IN 4h 56m,00h41m
+Lahad Datu Airport ( LDU / WBKD ),2021 Jul 25,08:05ÿMYT,MH3012,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,EST. DEPART IN 26m,01h10m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 26,16:20ÿMYT,MH1446,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 8h,01h05m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 26,14:35ÿMYT,FY1578,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 1d 6h,01h15m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 26,14:20ÿMYT,MH1436,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 6h,01h00m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 26,13:05ÿMYT,OD1411,Subangÿ(SZB/WMSA),AT76,Malindo Air,SCHEDULED IN 1d 5h,01h15m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 26,10:45ÿMYT,MH1432,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 2h,01h10m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 25,16:20ÿMYT,MH1446,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h05m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 25,14:35ÿMYT,FY1578,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 6h 36m,01h15m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 25,13:05ÿMYT,OD1411,Subangÿ(SZB/WMSA),AT76,Malindo Air,SCHEDULED IN 5h 6m,01h15m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 25,10:45ÿMYT,MH1432,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h10m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 24,16:20ÿMYT,MH1446,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h05m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 24,14:20ÿMYT,MH1436,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 24,10:45ÿMYT,MH1432,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h10m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 23,16:20ÿMYT,MH1446,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h05m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 23,14:35ÿMYT,FY1578,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 1d 17h AGO,01h15m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 23,14:20ÿMYT,MH1436,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 23,10:45ÿMYT,MH1432,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h10m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 19,14:35ÿMYT,FY1578,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 5d 17h AGO,01h15m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 18,16:20ÿMYT,MH1446,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h05m
+Langkawi International Airport ( LGK / WMKL ),2021 Jul 18,10:45ÿMYT,MH1432,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h10m
+Lawas Airport ( LWY / WBGW ),2021 Jul 26,16:10ÿMYT,MH3516,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 8h,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 26,15:30ÿMYT,MH3514,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 8h,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 26,15:20ÿMYT,MH3524,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 7h,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 26,11:10ÿMYT,MH3541,Bakalalanÿ(BKM/WBGQ),DHC6,Malaysia Airlines,SCHEDULED IN 1d 3h,00h35m
+Lawas Airport ( LWY / WBGW ),2021 Jul 26,09:20ÿMYT,MH3540,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 1h,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 26,08:45ÿMYT,MH3512,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 1h,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 26,07:55ÿMYT,MH3510,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 25,15:35ÿMYT,MH3516,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART IN 8h 6m,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 25,14:40ÿMYT,MH3524,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART IN 7h 11m,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 25,13:45ÿMYT,MH3502,Limbangÿ(LMN/WBGJ),DHC6,Malaysia Airlines,EST. DEPART IN 6h 41m,00h20m
+Lawas Airport ( LWY / WBGW ),2021 Jul 25,10:05ÿMYT,MH3514,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART IN 2h 36m,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 25,10:00ÿMYT,MH3526,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 2h 31m,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 25,07:55ÿMYT,MH3510,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART IN 26m,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 24,16:00ÿMYT,MH3520,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART 15h 28m AGO,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 22,16:50ÿMYT,MH3528,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART 2d 14h AGO,00h45m
+Lawas Airport ( LWY / WBGW ),2021 Jul 22,14:40ÿMYT,MH3520,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART 2d 16h AGO,00h45m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 26,16:00ÿMYT,MH3474,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,SCHEDULED IN 1d 8h,00h35m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 26,13:10ÿMYT,MH3760,Kuchingÿ(KCH/WBGG),AT72,Malaysia Airlines,SCHEDULED IN 1d 4h,01h45m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 26,08:45ÿMYT,MH3470,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,SCHEDULED IN 1d 1h,00h35m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 25,16:00ÿMYT,MH3474,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,EST. DEPART IN 8h 38m,00h35m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 25,13:05ÿMYT,MH3161,Kota Kinabaluÿ(BKI/WBKK),DHC6,Malaysia Airlines,EST. DEPART IN 5h 28m,00h50m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 25,10:45ÿMYT,MH3503,Lawasÿ(LWY/WBGW),DHC6,Malaysia Airlines,EST. DEPART IN 3h 38m,00h20m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 25,08:45ÿMYT,MH3470,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,EST. DEPART IN 1h 23m,00h39m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 23,08:45ÿMYT,MH3470,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,EST. DEPART 1d 22h AGO,00h39m
+Limbang Airport ( LMN / WBGJ ),2021 Jul 19,11:05ÿMYT,MH3472,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,SCHEDULED 5d 20h AGO,00h35m
+Long Akah Airport ( LKH / WBGL ),2021 Jul 26,11:35ÿMYT,MH3614,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 4h,00h40m
+Long Lellang Airport ( LGL / WBGF ),2021 Jul 25,12:40ÿMYT,MH3600,Marudiÿ(MUR/WBGM),DHC6,Malaysia Airlines,EST. DEPART IN 5h 16m,00h35m
+Long Seridan Airport ( ODN / WBGI ),2021 Jul 24,09:45ÿMYT,MH3622,Marudiÿ(MUR/WBGM),DHC6,Malaysia Airlines,LANDED 21h 55m AGO,00h20m
+Long Seridan Airport ( ODN / WBGI ),2021 Jul 22,10:05ÿMYT,MH3624,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,LANDED 2d 20h AGO,00h40m
+Long Seridan Airport ( ODN / WBGI ),2021 Jul 20,09:45ÿMYT,MH3626,Marudiÿ(MUR/WBGM),DHC6,Malaysia Airlines,LANDED 4d 20h AGO,00h26m
+Malacca Airport ( MKZ / WMKM ),2021 Jul 21,,PKYGK,Jakartaÿ(HLP/WIHH),BE40ÿ(PK-YGK),Tri-MG Intra Asia Airlines (Indonesia),LANDED 3d 18h AGO,01h36m
+Malacca Airport ( MKZ / WMKM ),2021 Jul 21,,9MPMF,Subangÿ(SZB/WMSA),A139ÿ(9M-PMF),,LANDED 3d 19h AGO,02h24m
+Marudi Airport ( MUR / WBGM ),2021 Jul 26,13:10ÿMYT,MH3723,Barioÿ(BBN/WBGZ),DHC6,Malaysia Airlines,SCHEDULED IN 1d 5h,00h40m
+Marudi Airport ( MUR / WBGM ),2021 Jul 26,11:10ÿMYT,MH3576,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 3h,00h20m
+Marudi Airport ( MUR / WBGM ),2021 Jul 25,13:35ÿMYT,MH3601,Long Datihÿ(LGL/WBGF),DHC6,Malaysia Airlines,EST. DEPART IN 7h 3m,00h20m
+Marudi Airport ( MUR / WBGM ),2021 Jul 25,11:45ÿMYT,MH3600,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART IN 5h 13m,00h35m
+Marudi Airport ( MUR / WBGM ),2021 Jul 18,11:40ÿMYT,MH3723,Barioÿ(BBN/WBGZ),DHC6,Malaysia Airlines,CANCELLED,00h40m
+Marudi Airport ( MUR / WBGM ),2021 Jul 18,09:40ÿMYT,MH3590,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,CANCELLED,00h20m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,16:40ÿMYT,MH3517,Lawasÿ(LWY/WBGW),DHC6,Malaysia Airlines,EST. DEPART IN 9h 3m,00h45m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,15:45ÿMYT,MH3525,Lawasÿ(LWY/WBGW),DHC6,Malaysia Airlines,EST. DEPART IN 8h 8m,00h45m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,14:50ÿMYT,MH3515,Lawasÿ(LWY/WBGW),DHC6,Malaysia Airlines,EST. DEPART IN 7h 13m,00h45m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,14:30ÿMYT,MH3552,Mukahÿ(MKM/WBGK),DHC6,Malaysia Airlines,SCHEDULED IN 6h 28m,01h10m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,14:15ÿMYT,MH3601,Marudiÿ(MUR/WBGM),DHC6,Malaysia Airlines,EST. DEPART IN 7h 3m,00h20m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,14:05ÿMYT,AK6190,Kuchingÿ(KCH/WBGG),-,AirAsia,EST. DEPART IN 6h 8m,01h05m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,13:35ÿMYT,MH3437,Barioÿ(BBN/WBGZ),DHC6,Malaysia Airlines,EST. DEPART IN 5h 53m,00h50m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,13:20ÿMYT,MH3442,Bintuluÿ(BTU/WBGB),AT72,Malaysia Airlines,EST. DEPART IN 5h 53m,00h47m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,11:45ÿMYT,MH3631,Muluÿ(MZV/WBMU),AT72,Malaysia Airlines,EST. DEPART IN 4h 18m,00h38m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,11:15ÿMYT,MH2574,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,EST. DEPART IN 2h 3m,02h23m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,11:15ÿMYT,MH3435,Barioÿ(BBN/WBGZ),DHC6,Malaysia Airlines,EST. DEPART IN 3h 33m,00h50m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,11:05ÿMYT,MH3527,Lawasÿ(LWY/WBGW),DHC6,Malaysia Airlines,EST. DEPART IN 3h 28m,00h45m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,09:55ÿMYT,MH3652,Sibuÿ(SBW/WBGS),AT72,Malaysia Airlines,EST. DEPART IN 2h 8m,01h08m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,09:45ÿMYT,MH3471,Limbangÿ(LMN/WBGJ),AT72,Malaysia Airlines,EST. DEPART IN 2h 18m,00h43m
+Miri Airport ( MYY / WBGR ),2021 Jul 25,09:00ÿMYT,MH3511,Lawasÿ(LWY/WBGW),DHC6,Malaysia Airlines,EST. DEPART IN 1h 23m,00h45m
+Miri Airport ( MYY / WBGR ),2021 Jul 24,17:05ÿMYT,MH3521,Lawasÿ(LWY/WBGW),DHC6,Malaysia Airlines,EST. DEPART 14h 31m AGO,00h45m
+Mukah Airport ( MKM / WBGK ),2021 Jul 26,12:55ÿMYT,MH3417,Kuchingÿ(KCH/WBGG),DHC6,Malaysia Airlines,SCHEDULED IN 1d 4h,01h05m
+Mukah Airport ( MKM / WBGK ),2021 Jul 26,12:00ÿMYT,MH3413,Kuchingÿ(KCH/WBGG),DHC6,Malaysia Airlines,SCHEDULED IN 1d 4h,01h05m
+Mukah Airport ( MKM / WBGK ),2021 Jul 26,10:05ÿMYT,MH3415,Kuchingÿ(KCH/WBGG),DHC6,Malaysia Airlines,SCHEDULED IN 1d 2h,01h05m
+Mukah Airport ( MKM / WBGK ),2021 Jul 26,09:10ÿMYT,MH3553,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,SCHEDULED IN 1d 1h,01h10m
+Mukah Airport ( MKM / WBGK ),2021 Jul 25,13:30ÿMYT,MH3718,Sibuÿ(SBW/WBGS),DHC6,Malaysia Airlines,EST. DEPART IN 6h 13m,00h25m
+Mukah Airport ( MKM / WBGK ),2021 Jul 25,13:00ÿMYT,MH3417,Kuchingÿ(KCH/WBGG),DHC6,Malaysia Airlines,SCHEDULED IN 5h 3m,01h05m
+Mukah Airport ( MKM / WBGK ),2021 Jul 25,12:00ÿMYT,MH3413,Kuchingÿ(KCH/WBGG),DHC6,Malaysia Airlines,EST. DEPART IN 4h 3m,01h05m
+Mukah Airport ( MKM / WBGK ),2021 Jul 25,09:10ÿMYT,MH3553,Miriÿ(MYY/WBGR),DHC6,Malaysia Airlines,EST. DEPART IN 1h 8m,01h10m
+Mulu Airport ( MZV / WBMU ),2021 Jul 25,10:45ÿMYT,MH3630,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,EST. DEPART IN 3h 23m,00h37m
+Mulu Airport ( MZV / WBMU ),2021 Jul 19,14:10ÿMYT,MH3752,Kuchingÿ(KCH/WBGG),AT72,Malaysia Airlines,CANCELLED,01h40m
+Mulu Airport ( MZV / WBMU ),2021 Jul 19,09:55ÿMYT,MH3251,Kota Kinabaluÿ(BKI/WBKK),AT72,Malaysia Airlines,CANCELLED,00h55m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,20:25ÿMYT,MH1162,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 12h 25m,01h05m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,18:20ÿMYT,MH1152,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,18:00ÿMYT,FY1434,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 10h 5m,01h00m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,17:25ÿMYT,CX78,Singaporeÿ(SIN/WSSS),B744,Cathay Pacific Airways,SCHEDULED IN 9h 5m,01h25m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,17:20ÿMYT,OD1172,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMG),Malindo Air,SCHEDULED IN 9h 25m,01h00m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,14:40ÿMYT,MH1148,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,00h55m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,13:00ÿMYT,FY1428,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 5h 5m,01h00m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,12:50ÿMYT,AK5323,Kota Kinabaluÿ(BKI/WBKK),-,AirAsia,SCHEDULED IN 3h 15m,02h40m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,11:30ÿMYT,CI6595,Taipeiÿ(TPE/RCTP),B744,China Airlines,SCHEDULED 29m AGO,05h05m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,11:20ÿMYT,VN5563,Ho Chi Minh Cityÿ(SGN/VVTS),-,Vietnam Airlines,EST. DEPART IN 2h 45m,01h40m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,10:35ÿMYT,SJ102,Medanÿ(KNO/WIMM),B738,Sriwijaya Air,SCHEDULED IN 2h 45m,00h55m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,10:20ÿMYT,TR426,Singaporeÿ(SIN/WSSS),-,Scoot,SCHEDULED IN 2h 5m,01h20m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,09:20ÿMYT,MH1138,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,00h55m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,09:00ÿMYT,KE349,Jakartaÿ(CGK/WIII),-,Korean Air,SCHEDULED 24m AGO,02h30m
+Penang International Airport ( PEN / WMKP ),2021 Jul 25,07:40ÿMYT,LD391,Hong Kongÿ(HKG/VHHH),A306ÿ(B-LDB),Air Hong Kong,LANDING LATE IN 1h 14m,03h40m
+Penang International Airport ( PEN / WMKP ),2021 Jul 24,20:25ÿMYT,MH1162,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h05m
+Penang International Airport ( PEN / WMKP ),2021 Jul 24,18:20ÿMYT,MH1152,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Penang International Airport ( PEN / WMKP ),2021 Jul 24,18:00ÿMYT,CX78,Singaporeÿ(SIN/WSSS),B744,Cathay Pacific Airways,SCHEDULED 14h 24m AGO,01h30m
+Penang International Airport ( PEN / WMKP ),2021 Jul 24,13:00ÿMYT,FY1428,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 18h 54m AGO,01h00m
+Penang International Airport ( PEN / WMKP ),2021 Jul 24,09:20ÿMYT,MH1138,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,00h55m
+Penang International Airport ( PEN / WMKP ),2021 Jul 24,07:40ÿMYT,BR6085,Singaporeÿ(SIN/WSSS),-,EVA Air,SCHEDULED 1d AGO,01h25m
+Sandakan Airport ( SDK / WBKS ),2021 Jul 25,14:55ÿMYT,MH2710,Kota Kinabaluÿ(BKI/WBKK),B738,Malaysia Airlines,EST. DEPART IN 3h 15m,02h44m
+Sandakan Airport ( SDK / WBKS ),2021 Jul 25,11:15ÿMYT,MH3062,Tawauÿ(TWU/WBKW),AT72,Malaysia Airlines,EST. DEPART IN 3h 35m,00h54m
+Sandakan Airport ( SDK / WBKS ),2021 Jul 25,09:05ÿMYT,MH3154,Lahad Datuÿ(LDU/WBKD),AT72,Malaysia Airlines,EST. DEPART IN 1h 30m,00h39m
+Sandakan Airport ( SDK / WBKS ),2021 Jul 23,07:45ÿMYT,MH2042,Kota Kinabaluÿ(BKI/WBKK),B738,Malaysia Airlines,CANCELLED,00h40m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 26,18:35ÿMYT,MH1057,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 10h,00h50m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 26,11:40ÿMYT,OD1215,Subangÿ(SZB/WMSA),AT76,Malindo Air,SCHEDULED IN 1d 3h,01h00m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 26,11:15ÿMYT,FY1338,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 1d 3h,01h05m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 26,10:20ÿMYT,MH1051,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 2h,00h55m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 25,17:55ÿMYT,AK5305,Kota Kinabaluÿ(BKI/WBKK),-,AirAsia,EST. DEPART IN 8h 40m,02h15m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 25,11:15ÿMYT,FY1338,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 3h 10m,01h05m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 25,10:20ÿMYT,MH1051,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,EST. DEPART IN 2h 25m,00h46m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 24,11:15ÿMYT,FY1338,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 20h 49m AGO,01h05m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 24,10:20ÿMYT,MH1051,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,00h55m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 23,18:35ÿMYT,MH1057,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,00h50m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 23,11:15ÿMYT,FY1338,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 1d 20h AGO,01h05m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 23,10:20ÿMYT,MH1051,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,00h55m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 22,11:15ÿMYT,FY1338,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 2d 20h AGO,01h05m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 21,11:15ÿMYT,FY1338,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 3d 20h AGO,01h05m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 21,09:00ÿMYT,OD1211,Subangÿ(SZB/WMSA),AT76,Malindo Air,SCHEDULED 3d 22h AGO,01h00m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 20,11:15ÿMYT,FY1338,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 4d 20h AGO,01h05m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 20,09:00ÿMYT,OD1211,Subangÿ(SZB/WMSA),AT76,Malindo Air,SCHEDULED 4d 22h AGO,01h00m
+Senai International Airport ( JHB / WMKJ ),2021 Jul 19,11:15ÿMYT,FY1338,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 5d 20h AGO,01h05m
+Sibu Airport ( SBW / WBGS ),2021 Jul 26,13:40ÿMYT,MH3653,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,SCHEDULED IN 1d 5h,01h00m
+Sibu Airport ( SBW / WBGS ),2021 Jul 25,12:45ÿMYT,MH3719,Mukahÿ(MKM/WBGK),DHC6,Malaysia Airlines,EST. DEPART IN 5h 17m,00h25m
+Sibu Airport ( SBW / WBGS ),2021 Jul 25,11:30ÿMYT,AK6464,Kuchingÿ(KCH/WBGG),-,AirAsia,EST. DEPART IN 3h 47m,00h40m
+Sibu Airport ( SBW / WBGS ),2021 Jul 25,11:20ÿMYT,MH3651,Miriÿ(MYY/WBGR),AT72,Malaysia Airlines,EST. DEPART IN 3h 17m,01h11m
+Sibu Airport ( SBW / WBGS ),2021 Jul 25,08:35ÿMYT,MH3743,Bintuluÿ(BTU/WBGB),AT72,Malaysia Airlines,EST. DEPART IN 57m,00h47m
+Simanggang Airport ( SGG / WBGY ),2021 Jul 22,09:15ÿMYT,GL9501,Tasiilaqÿ(AGM/BGAM),B429,Air Greenland,SCHEDULED 2d 12h AGO,
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,19:20ÿMYT,FY1439,Penangÿ(PEN/WMKP),AT72,Flyfirefly,SCHEDULED IN 11h 16m,01h00m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,19:00ÿMYT,OD1505,Alor Satarÿ(AOR/WMKA),AT76ÿ(9M-LMM),Malindo Air,SCHEDULED IN 10h 46m,01h10m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,18:50ÿMYT,OD1805,Kuala Terengganuÿ(TGG/WMKN),AT76ÿ(9M-LMH),Malindo Air,SCHEDULED IN 10h 41m,01h05m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,18:40ÿMYT,OD1173,Penangÿ(PEN/WMKP),AT76ÿ(9M-LMG),Malindo Air,SCHEDULED IN 10h 36m,01h00m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,18:40ÿMYT,OD1267,Kota Baharuÿ(KBR/WMKC),AT76ÿ(9M-LMK),Malindo Air,SCHEDULED IN 10h 31m,01h05m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,18:30ÿMYT,FY1151,Kota Baharuÿ(KBR/WMKC),AT72,Flyfirefly,SCHEDULED IN 10h 21m,01h05m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,17:40ÿMYT,FY1673,Alor Satarÿ(AOR/WMKA),AT72,Flyfirefly,SCHEDULED IN 9h 26m,01h10m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,16:10ÿMYT,FY1579,Langkawiÿ(LGK/WMKL),AT72,Flyfirefly,SCHEDULED IN 7h 51m,01h15m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,15:00ÿMYT,FY1259,Kuala Terengganuÿ(TGG/WMKN),AT72,Flyfirefly,SCHEDULED IN 6h 56m,01h00m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,14:40ÿMYT,OD1412,Langkawiÿ(LGK/WMKL),AT76ÿ(9M-LMG),Malindo Air,SCHEDULED IN 6h 21m,01h15m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,14:20ÿMYT,FY1435,Penangÿ(PEN/WMKP),AT72,Flyfirefly,SCHEDULED IN 6h 16m,01h00m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,14:10ÿMYT,J8101,Redangÿ(RDN/WMPR),AT43,Berjaya Air,SCHEDULED IN 5h 56m,01h10m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,12:35ÿMYT,FY1339,Senaiÿ(JHB/WMKJ),AT72,Flyfirefly,SCHEDULED IN 4h 31m,01h00m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,12:20ÿMYT,FY1147,Kota Baharuÿ(KBR/WMKC),AT72,Flyfirefly,SCHEDULED IN 4h 11m,01h05m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,07:20ÿMYT,TH3508,Hong Kongÿ(HKG/VHHH),B762ÿ(9M-RXA),Raya Airways,LANDING LATE IN 1h 15m,03h35m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 25,,TH6820,Hong Kongÿ(HKG/VHHH),B762ÿ(9M-RXB),Raya Airways,DEPARTED 21m AGO,
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 24,23:00ÿMYT,TH4164,Ho Chi Minh Cityÿ(SGN/VVTS),B752,Raya Airways,SCHEDULED 9h 48m AGO,01h45m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 24,18:30ÿMYT,FY1151,Kota Baharuÿ(KBR/WMKC),AT72,Flyfirefly,SCHEDULED 13h 38m AGO,01h05m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 24,15:00ÿMYT,FY1259,Kuala Terengganuÿ(TGG/WMKN),AT72,Flyfirefly,SCHEDULED 17h 3m AGO,01h00m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 24,14:20ÿMYT,FY1435,Penangÿ(PEN/WMKP),AT72,Flyfirefly,SCHEDULED 17h 43m AGO,01h00m
+Sultan Abdul Aziz Shah International Airport ( SZB / WMSA ),2021 Jul 24,14:10ÿMYT,J8101,Redangÿ(RDN/WMPR),AT43,Berjaya Air,SCHEDULED 18h 3m AGO,01h10m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 26,16:10ÿMYT,FY1672,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 1d 7h,01h10m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 26,13:50ÿMYT,MH1208,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 5h,01h00m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 25,17:30ÿMYT,OD1506,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMM),Malindo Air,SCHEDULED IN 9h 16m,01h10m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 25,16:10ÿMYT,FY1672,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 7h 56m,01h10m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 25,13:50ÿMYT,MH1208,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 24,16:10ÿMYT,FY1672,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 16h 3m AGO,01h10m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 24,13:50ÿMYT,MH1208,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 23,16:10ÿMYT,FY1672,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 1d 16h AGO,01h10m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 22,16:10ÿMYT,FY1672,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 2d 16h AGO,01h10m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 21,,OD1506,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMH),Malindo Air,CANCELLED,00h53m
+Sultan Abdul Halim Airport ( AOR / WMKA ),2021 Jul 21,16:10ÿMYT,FY1672,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 3d 16h AGO,01h10m
+Sultan Azlan Shah Airport ( IPH / WMKI ),2021 Jul 26,08:50ÿMYT,TR480,Singaporeÿ(SIN/WSSS),A20N,Scoot,SCHEDULED IN 1d,01h10m
+Sultan Azlan Shah Airport ( IPH / WMKI ),2021 Jul 25,12:30ÿMYT,TR484,Singaporeÿ(SIN/WSSS),A20N,Scoot,SCHEDULED IN 4h 16m,01h10m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 26,17:15ÿMYT,OD1266,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMM),Malindo Air,SCHEDULED IN 1d 9h,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 26,17:05ÿMYT,FY1150,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 1d 8h,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 26,16:50ÿMYT,MH1396,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 8h,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 26,10:55ÿMYT,FY1146,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 1d 2h,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 25,17:15ÿMYT,OD1266,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMK),Malindo Air,SCHEDULED IN 9h 6m,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 25,17:05ÿMYT,FY1150,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 8h 56m,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 25,16:50ÿMYT,MH1396,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,EST. DEPART IN 8h 41m,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 25,10:55ÿMYT,FY1146,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 2h 46m,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 24,17:05ÿMYT,FY1150,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 15h 3m AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 24,16:50ÿMYT,MH1396,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED 15h 18m AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 24,10:55ÿMYT,FY1146,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 21h 13m AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 24,09:30ÿMYT,MH1384,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 23,17:05ÿMYT,FY1150,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 1d 15h AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 23,10:55ÿMYT,FY1146,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 1d 21h AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 23,09:30ÿMYT,MH1384,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 22,17:05ÿMYT,FY1150,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 2d 15h AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 22,10:55ÿMYT,FY1146,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 2d 21h AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 21,17:05ÿMYT,FY1150,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 3d 15h AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 21,15:45ÿMYT,OD1232,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMK),Malindo Air,CANCELLED,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 21,11:45ÿMYT,OD1234,Subangÿ(SZB/WMSA),AT76,Malindo Air,SCHEDULED 3d 20h AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 21,10:55ÿMYT,FY1146,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 3d 21h AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 20,17:15ÿMYT,OD1266,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMG),Malindo Air,SCHEDULED 4d 14h AGO,01h05m
+Sultan Ismail Petra Airport ( KBR / WMKC ),2021 Jul 20,17:05ÿMYT,FY1150,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 4d 15h AGO,01h05m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 26,17:25ÿMYT,OD1806,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMG),Malindo Air,SCHEDULED IN 1d 9h,01h05m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 26,17:00ÿMYT,MH1336,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,SCHEDULED IN 1d 8h,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 26,13:40ÿMYT,FY1258,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 1d 5h,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 25,17:25ÿMYT,OD1806,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMH),Malindo Air,SCHEDULED IN 9h 16m,01h05m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 25,17:00ÿMYT,MH1336,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 25,13:40ÿMYT,FY1258,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED IN 5h 36m,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 24,17:00ÿMYT,MH1336,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 24,13:40ÿMYT,FY1258,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 18h 23m AGO,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 23,17:00ÿMYT,MH1336,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,CANCELLED,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 23,13:40ÿMYT,FY1258,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 1d 18h AGO,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 22,13:40ÿMYT,FY1258,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 2d 18h AGO,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 21,16:10ÿMYT,OD1812,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMO),Malindo Air,CANCELLED,01h05m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 21,13:40ÿMYT,FY1258,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 3d 18h AGO,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 21,11:45ÿMYT,OD1804,Subangÿ(SZB/WMSA),AT76,Malindo Air,SCHEDULED 3d 20h AGO,01h05m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 20,16:10ÿMYT,OD1812,Subangÿ(SZB/WMSA),AT76ÿ(9M-LMH),Malindo Air,CANCELLED,01h05m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 20,13:40ÿMYT,FY1258,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 4d 18h AGO,01h00m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 20,11:45ÿMYT,OD1804,Subangÿ(SZB/WMSA),AT76,Malindo Air,SCHEDULED 4d 20h AGO,01h05m
+Sultan Mahmud Airport ( TGG / WMKN ),2021 Jul 19,13:40ÿMYT,FY1258,Subangÿ(SZB/WMSA),AT72,Flyfirefly,SCHEDULED 5d 18h AGO,01h00m
+Tanjung Manis Airport ( TGC / WBGT ),2021 Jul 26,14:25ÿMYT,MH3711,Kuchingÿ(KCH/WBGG),DHC6,Malaysia Airlines,SCHEDULED IN 1d 6h,00h40m
+Tanjung Manis Airport ( TGC / WBGT ),2021 Jul 25,10:35ÿMYT,MH3711,Kuchingÿ(KCH/WBGG),DHC6,Malaysia Airlines,EST. DEPART IN 2h 49m,00h40m
+Tawau Airport ( TWU / WBKW ),2021 Jul 26,11:25ÿMYT,AK6268,Kota Kinabaluÿ(BKI/WBKK),-,AirAsia,SCHEDULED IN 1d 3h,00h55m
+Tawau Airport ( TWU / WBKW ),2021 Jul 25,16:10ÿMYT,AK5748,Kuala Lumpurÿ(KUL/WMKK),-,AirAsia,EST. DEPART IN 6h 9m,02h55m
+Tawau Airport ( TWU / WBKW ),2021 Jul 25,10:10ÿMYT,MH2660,Kuala Lumpurÿ(KUL/WMKK),B738,Malaysia Airlines,EST. DEPART IN 9m,03h07m
+Tawau Airport ( TWU / WBKW ),2021 Jul 25,10:10ÿMYT,MH3061,Sandakanÿ(SDK/WBKS),AT72,Malaysia Airlines,EST. DEPART IN 2h 24m,00h51m
+Tawau Airport ( TWU / WBKW ),2021 Jul 23,15:55ÿMYT,MH2137,Kota Kinabaluÿ(BKI/WBKK),B738,Malaysia Airlines,CANCELLED,00h50m
